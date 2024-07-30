@@ -1,7 +1,16 @@
 import { ReactNode } from 'react';
 
-const Container = ({ children }: { children: ReactNode }) => {
-  return <div className="mx-auto max-w-screen-lg bg-green-400 px-5">{children}</div>;
+interface ContainerProps {
+  children: ReactNode;
+  className?: string;
+}
+
+const Container = ({ children, className }: ContainerProps) => {
+  return (
+    <div className={`mx-auto max-w-screen-lg px-5 py-12 sm:py-28 ${className || ''}`}>
+      {children}
+    </div>
+  );
 };
 
 export default Container;

@@ -17,6 +17,14 @@ const config: Config = {
       textShadow: {
         lg: '3px 5px 2px #474747',
       },
+
+      boxShadow: {
+        card: '2px 2px 15px 2px #d9dde1',
+      },
+
+      height: {
+        '500': '500px',
+      },
     },
   },
   plugins: [require('tailwindcss-textshadow')],

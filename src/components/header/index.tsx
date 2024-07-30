@@ -42,7 +42,7 @@ const Header = () => {
           <nav className="flex gap-10 py-5 text-lg">
             <CustomLink href="/" title="Home" />
             <CustomLink href="/sabores" title="Sabores" />
-            <CustomLink href="/projects" title="Sobre" />
+            <CustomLink href="/sobre" title="Sobre" />
           </nav>
         </div>
         {/* <div className="lg:hidden"></div> */}
@@ -60,7 +60,7 @@ const Header = () => {
                 toggle={handleClick}
               />
               <CustomMobileLink
-                href="/about"
+                href="/sobre"
                 title="Sobre"
                 toggle={handleClick}
               />
