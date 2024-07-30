@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Gelateria
 
-## Getting Started
+## Descrição
+Gelateria é uma aplicação web desenvolvida para uma sorveteria artesanal. O objetivo da aplicação é apresentar os produtos, eventos e informações sobre a sorveteria de forma atrativa e informativa. A aplicação é responsiva e oferece uma experiência de usuário agradável tanto em dispositivos móveis quanto em desktops.
 
-First, run the development server:
+## Funcionalidades
+- **Banner**: Exibição de banners com imagens e títulos.
+- **Conteúdo Dinâmico**: Seções de conteúdo flexíveis com suporte para diferentes layouts de imagens e texto.
+- **Eventos**: Informações sobre eventos realizados pela sorveteria.
+- **Responsividade**: Layout adaptável para diferentes tamanhos de tela.
+- **Informações de Contato e Localização**: Facilita o acesso e a comunicação com a sorveteria.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tecnologias Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Estrutura do Projeto
+- **pages**: Contém as páginas da aplicação.
+- **components**: Contém os componentes reutilizáveis da aplicação.
+- **public**: Contém as imagens e outros arquivos públicos.
+- **styles**: Contém os arquivos de estilização.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Capturas de Tela
 
-## Learn More
+![Captura de Tela 1](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort1.jpg)
 
-To learn more about Next.js, take a look at the following resources:
+![Captura de Tela 2](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort2.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Captura de Tela 3](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort3.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Captura de Tela 4](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort4.jpg)
 
-## Deploy on Vercel
+## Contribuição
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Autor
+
+Maicon Botelho - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon_Botelho-blue)](https://www.linkedin.com/in/maiconbotelho/)
