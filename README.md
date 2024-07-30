@@ -26,13 +26,9 @@ Gelateria é uma aplicação web desenvolvida para uma sorveteria artesanal. O o
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort1.jpg)
+![Captura de Tela 1](https://raw.githubusercontent.com/maiconsbotelho/gelateria/main/public/screenshot/screenshot.png)
 
-![Captura de Tela 2](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort2.jpg)
-
-![Captura de Tela 3](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort3.jpg)
-
-![Captura de Tela 4](https://raw.githubusercontent.com/maiconsbotelho/SelletEsmalteria/main/assets/img/screenshorts/screenshort4.jpg)
+![Captura de Tela 2](https://raw.githubusercontent.com/maiconsbotelho/gelateria/main/public/screenshot/screenshot2.png)
 
 ## Contribuição
 
